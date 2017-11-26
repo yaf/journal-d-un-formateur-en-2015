@@ -1,7 +1,14 @@
 ---
-titre: "Semaine 1"
-periode: "Du 8 au 12 septembre 2014."  
+title: "Semaine 01"
+date: 2014-09-08T19:42:05+01:00
 ---
+
+Journal d'un formateur en bootcamp - semaine 1
+
+Semaine 1
+=========
+
+*Du 8 au 12 septembre 2014.*
 
 Jour 1 — Lundi 8 septembre 2014
 -------------------------------
@@ -128,7 +135,121 @@ Nous avons fini le tour des revues de code. Mais le manque de dispo et
 la digestion ont bousillé un peu le truc. Ensuite nous avons fait la
 restitution de la prez sur les OS (pas eu le temps la veille). Ensuite
 ils se sont répartis, pendant que j’étais en réunion d’équipe, sur les
+sujets suivants:
 
+-   Les réseaux
+-   Les acteurs du logiciel
+-   Les moyens de distribuer le logiciel (mon souhait est de parler de
+    comment le logiciel passe du dev à l’utilisateur, mais il semblerait
+    que ça a été mal compris ?)
+-   Les licences
 
-....
+Demande de signature du doc de droit à l’image. Une élève, ayant fait du
+droit lit bien le truc et propose des changements pour que ce soit
+mieux. Il faudrait faire signer ces documents avant la rentrée, faire le
+dossier administratif avant.
 
+Il n’y avait plus de papier les jours précédents, il a fallu aller en
+acheter nous-mêmes, du coup ils signent les feuilles d’émargement
+seulement maintenant. Faut-il tricher et les faire tous signer tout le
+temps, mais les moments où ils n’étaient pas là ?
+
+Le nouveau vidéo-projecteur est arrivé, nous pourrons faire un essai
+demain, dans une configuration un peu plus groupée. Je pense que je vais
+demander si l’un d’entre eux veut essayer.
+
+“Beaucoup d’élèves ont amené leur machine… Est-ce que les forcer à
+travailler sur un fixe à deux est une bonne chose ? Je tiens bon en
+pensant que oui.”
+
+Toujours pas de nouvelles d’un des élèves. Nous avons statué en réunion
+d’équipe de lui donner un ultimatum: si aucun signe de vie jeudi midi,
+nous le considérerons en dehors de la formation et contacterons les 3
+personnes qui se sont signalées pour le remplacer.
+
+Jour 4 — Jeudi 11 septembre 2014
+--------------------------------
+
+Point agenda en arrivant. Ça donne de la visibilité, c’est à refaire en
+mode +7 jours au moins.
+
+Réalisation des entretiens pour les formatrices pour l’Arabie Saoudite.
+Pas préparés, pas assez d’éléments pour pouvoir vraiment expliquer le
+projet et répondre aux questions des candidates (malgré la présence de
+la chargée d’essaimage). Du coup, discussion tech et découverte de deux
+personnes intéressantes.
+
+Début d’après-midi, je continue les entretiens one-to-one avec les
+élèves.
+
+Les restitutions sur les sujets «réseau», «licence», «acteurs du
+logiciel» puis «mode de distribution» se sont bien passées. Un petit
+bémol sur réseau qui était un peu long et ne racontait pas une histoire
+(dommage), ça manquait d’un angle.
+
+“Faut-il définir l’angle ou l’histoire dans l’énoncé ?”
+
+La partie sur les acteurs est resté trop en hauteur. La case qui
+m’intéressait était un élément parmi d’autres : chef de proj, dev,
+designer, testeur… Mais ça nous apermis de parler de juridique. La
+présentation licence juste avant y est peut-être pour quelque chose ?
+
+“Peut-être faut-il définir un peu plus le sujet, et prévoir un ordre de
+déroulement pour maitriser un peu les orientations que peuvent prendre
+les discussions (forcement influencées par la présentation précédente
+?)”
+
+Toujours pas de nouvelle de l’élève manquant. Conformément à ce que nous
+nous sommes dit en équipe, j’ai contacté les trois candidates
+potentiels, à voir si elles répondent.
+
+Jour 5 — Vendredi 12 septembre 2014
+-----------------------------------
+
+Petit point sur mécanisme de la journée (façon rétrospective):
+
+1.  Intro: bonjour…
+2.  Récolte de données: mettre un ticket dans le tableau pour chaque
+    truc que vous avez appris
+3.  Nous sélectionnons ce que nous aimerions transmettre
+4.  On rédige
+
+Ce coup-là ça a été assez simple: une douzaine de sujets abordés dans la
+semaine, du coup, tout est pris en compte. Discussion poussée autour du
+tu ou vous, en prenant les dimensions :
+
+-   Tu parce que la personne qui va lire sera seule derrière son écran,
+    nous essayons de créer de la proximité du coup, pour l’encourager et
+    la motiver
+-   Vous pour créer un effet communauté, groupe. Nous élèves en
+    présentiel, nous nous adressons au vous, groupe énorme des
+    élèves distants. Vous êtes aussi un groupe de Simploniens.
+
+Finalement, nous avons opté pour le Vous.
+
+Une introduction a été rédigée. Cela prendra la place de la description
+de session (wording à changer sur simplonline). C’est une sorte d’édito
+hebdomadaire. Il faut ajouter dedans «le mot du formateur» histoire de
+montrer la présence et l’appui du formateur :-)
+
+“Je me demande comment ils vont extraire de l’information à transmettre
+quand on codera tous les jours ? Mais j’ai bon espoir que nous
+trouverons une solution. Je pense que nous proposerons beaucoup de
+code.”
+
+Les échanges/discussions sur les sujets préparés sont assez
+intéressants. Il faut garder ce format en le réduisant durant la
+formation: une présentation/discussion par jour après le repas. Cela
+permettra d’avoir 4 petits cours/discussions théorique pour la foad du
+vendredi. Le reste sera rempli par du code, ou un truc appris par le
+code.
+
+Très agréable de se sentir appuyé/aidé par quelqu’un, dans ce cas :
+Laure.
+
+Passsé pas mal de temps à faire de la paperasse administrative (doc
+d’entrée en formation). Il faut faire ça avant la formation, c’est sûr,
+ou alors avec une personne pour aider.
+
+Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
+un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

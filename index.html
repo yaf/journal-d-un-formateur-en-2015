@@ -8,77 +8,24 @@
   <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.2/moment.js"></script>
   <title>Journal d'un formateur en bootcamp</title>
 
-
-<h1>Semaine 0 — Introduction</h1>
-
-<h2>Il était une fois…</h2>
-
-<p>Fin mars 2015, je voyais partir les élèves avec qui je venais de passer 6 mois. Nous étions ensemble à plein temps. Il y a eu des hauts et des bas, des débats aussi. Quelques grands moments et des coups de fatigue.</p>
-
-<p>Quelques jours après je quittais l’entreprise dans laquelle j’avais réalisé cette expérience. Je venais d’y passer presque une année : la moitié en tant que bénévole, l’autre en tant que salarié, le tout à la place du responsable pédagogique, seul à avoir programmé dans un environnement professionnel.</p>
-
-<p>J’étais venue en curieux pour voir cette «école» qui forme au développement, montée par des gens qui ne connaissent rien à la programmation…</p>
-
-<p>Me voilà donc en février 2014 occupant les lieux en échange de quelques réponses aux questions des élèves de la première promo. Ces derniers ayant beaucoup de questions, j’y passais ma journée, et ça me plaisait. Au bout de quelque temps, on m’a demandé de venir à plein temps.</p>
-
-<p>Sans argent pour me payer. Le deal était que je m’occupe bénévolement de la fin de la première promo (rallongée pour l’occasion), et je suis embauché à partir de septembre pour faire la deuxième. C’était parti, j’allais travailler pour Simplon'co.</p>
-
-<p>La première promo a été une période de grande improvisation. J’ai essayé d’aider au mieux ce que les élèves avaient commencé seuls. Ça a été le moment pour moi de réfléchir à ce que je voulais faire mieux avec les suivants.</p>
-
-<p>Durant la deuxième promo, j’ai rédigé un journal. Le but était de me permettre de prendre du recul sur mes sensations et réflexions de la journée. C’est vite devenu un moyen pour moi de réfléchir à comment améliorer l’expérience. Une sorte de rétrospective quotidienne, effectuée dans le RER en rentrant chez mois.</p>
-
-<p>Ce journal était (est encore ?) proposé comme source d’inspiration pour les formateurs qui ont été recrutés ensuite, et je pense qu’il pourrait servir plus largement à partager ce que j’ai essayé, raté, souhaité améliorer, …</p>
-
-<p>Voici donc ce journal que je livrerais petit à petit ici, et tel que je l’ai écrit à l’époque (je vais essayer de corriger les fautes d’orthographe au fur et à mesure).</p>
-
-<ol>
-  <li><a href="semaine-01.html">Semaine 1</a> Du 8 au 12 septembre 2014.</li>
-  <li><a href="semaine-02.html">Semaine 2</a> Du 15 au 19 septembre 2014.</li>
-  <li><a href="semaine-03.html">Semaine 3</a> Du 22 au 26 septembre 2014.</li>
-  <li><a href="semaine-04.html">Semaine 4</a> Du 29 septembre au 3 octobre 2014.</li>
-  <li><a href="semaine-05.html">Semaine 5</a> Du 6 au 10 octobre 2014.</li>
-  <li><a href="semaine-06.html">Semaine 6</a> Du 13 au 17 octobre 2014.</li>
-  <li><a href="semaine-07.html">Semaine 7</a> Du 20 au 24 octobre 2014.</li>
-  <li><a href="semaine-08.html">Semaine 8</a> Du 27 au 31 octobre 2014.</li>
-  <li><a href="semaine-09.html">Semaine 9</a> Du 3 au 7 novembre 2014.</li>
-  <li><a href="semaine-10.html">Semaine 10</a> Du 12 au 14 novembre 2014.</li>
-  <li><a href="semaine-11.html">Semaine 11</a> Du 17 au 21 novembre 2014.</li>
-  <li><a href="semaine-12.html">Semaine 12</a> Du 24 au 28 novembre 2014.</li>
-  <li><a href="semaine-13.html">Semaine 13</a> Du 1 au 5 décembre 2014.</li>
-  <li><a href="semaine-14.html">Semaine 14</a> Du 8 au 12 décembre 2014.</li>
-  <li><a href="semaine-15.html">Semaine 15</a> Du 15 au 19 décembre 2014.</li>
-  <li><a href="semaine-16.html">Semaine 16</a> Du 5 au 9 janvier 2015.</li>
-  <li><a href="semaine-17.html">Semaine 17</a> Du 12 au 15 janvier 2015.</li>
-  <li><a href="semaine-18.html">Semaine 18</a> Du 19 au 23 janvier 2015.</li>
-  <li><a href="semaine-19.html">Semaine 19</a> Du 26 au 30 janvier 2015.</li>
-  <li><a href="semaine-20.html">Semaine 20</a> Du 2 au 6 février 2014.</li>
-  <li><a href="semaine-21.html">Semaine 21</a> Du 9 au 13 février 2014.</li>
-  <li><a href="semaine-22.html">Semaine 22</a> Du 16 au 20 février 2014.</li>
-  <li><a href="semaine-23.html">Semaine 23</a> Du 23 au 27 février 2014.</li>
-  <li><a href="semaine-24.html">Semaine 24</a> Du 2 au 6 mars 2014.</li>
-  <li><a href="semaine-25.html">Semaine 25</a> Du 9 au 13 mars 2014.</li>
-  <li><a href="semaine-26.html">Semaine 26</a> Du 16 au 20 mars 2015.</li>
-  <li><a href="semaine-27.html">Semaine 27</a> Du 23 au 26 mars 2015.</li>
-</ol>
-
-<main id=journaux>
-</main>
+  <main id=journaux>
+  </main>
 
 
-<script>
+  <script>
 'use strict';
 
 const afficheLaListeDesJournaux = () => {
   const container = document.querySelector('#journaux');
 
   fetch('https://api.daktary.com/yaf/journal-d-un-formateur-en-2015/tree/master/journaux')
-  .then(response => response.json())
-  .then(journaux => {
-    journaux.body.forEach(journal => {
-      const entreeDeJournal = MiseEnFormeDe(journal);
-      container.append(entreeDeJournal);
+    .then(response => response.json())
+    .then(journaux => {
+      journaux.body.forEach(journal => {
+        const entreeDeJournal = MiseEnFormeDe(journal);
+        container.append(entreeDeJournal);
+      });
     });
-  });
 };
 
 const MiseEnFormeDe = (journal) => {
@@ -93,7 +40,7 @@ const MiseEnFormeDe = (journal) => {
 }
 
 afficheLaListeDesJournaux();
-</script>
+  </script>
 
 
 </html>
