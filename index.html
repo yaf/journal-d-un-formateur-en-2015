@@ -1,7 +1,12 @@
-<!DOCTYPE html>
 
-<meta charset="utf-8">
-<title>Journal d'un formateur en bootcamp - semaine 0</title>
+<!DOCTYPE html>
+<html lang="fr">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.2/moment.js"></script>
+  <title>Journal d'un formateur en bootcamp</title>
 
 
 <h1>Semaine 0 — Introduction</h1>
@@ -56,3 +61,39 @@
   <li><a href="semaine-27.html">Semaine 27</a> Du 23 au 26 mars 2015.</li>
 </ol>
 
+<main id=journaux>
+</main>
+
+
+<script>
+'use strict';
+
+const afficheLaListeDesJournaux = () => {
+  const container = document.querySelector('#journaux');
+
+  fetch('http://api.daktary.com/yaf/journal-d-un-formateur-en-2015/tree/master/journaux')
+  .then(response => response.json())
+  .then(journaux => {
+    journaux.body.forEach(journal => {
+      const entreeDeJournal = MiseEnFormeDe(journal);
+      container.append(entreeDeJournal);
+    });
+  });
+};
+
+const MiseEnFormeDe = (journal) => {
+  const sectionJournal = document.createElement('section');
+  sectionJournal.innerHTML = journal.body;
+
+  const titreJournal = document.createElement('h1');
+  titreJournal.textContent = journal.meta.titre;
+  sectionJournal.prepend(titreJournal);
+
+  return sectionJournal;
+}
+
+afficheLaListeDesJournaux();
+</script>
+
+
+</html>
