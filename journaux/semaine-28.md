@@ -3,9 +3,6 @@ title: "Semaine 28"
 date: 2015-03-23T19:42:05+01:00
 ---
 
-Semaine 28
-==========
-
 *Du 23 au 26 mars 2015.*
 
 Jour 128 — Lundi 23 mars 2015

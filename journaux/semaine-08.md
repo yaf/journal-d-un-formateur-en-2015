@@ -3,9 +3,6 @@ title: "Semaine 08"
 date: 2014-10-27T13:15:29+01:00
 ---
 
-Semaine 8
-=========
-
 *Du 27 au 31 octobre 2014.*
 
 Jour 36 — Lundi 27 octobre 2014

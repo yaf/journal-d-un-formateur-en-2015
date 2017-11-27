@@ -3,9 +3,6 @@ title: "Semaine 12"
 date: 2014-11-24T13:15:29+01:00
 ---
 
-Semaine 12
-==========
-
 *Du 24 au 28 novembre 2014.*
 
 Jour 54 — Lundi 24 novembre 2014

@@ -3,9 +3,6 @@ title: "Semaine 04"
 date: 2014-09-29T13:15:29+01:00
 ---
 
-Semaine 4
-=========
-
 *Du 29 septembre au 3 octobre 2014.*
 
 Jour 16 — Lundi 29 septembre 2014

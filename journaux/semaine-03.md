@@ -3,9 +3,6 @@ title: "Semaine 03"
 date: 2014-09-22T13:15:29+01:00
 ---
 
-Semaine 3
-=========
-
 *Du 22 au 26 septembre 2014.*
 
 Jour 11 — Lundi 22 septembre 2014

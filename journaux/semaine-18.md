@@ -3,9 +3,6 @@ title: "Semaine 18"
 date: 2015-01-12T13:15:29+01:00
 ---
 
-Semaine 18
-==========
-
 *Du 12 au 15janvier 2015.*
 
 Jour 79 — Lundi 12 janvier 2015

@@ -3,9 +3,6 @@ title: "Semaine 23"
 date: 2014-02-16T13:15:29+01:00
 ---
 
-Semaine 23
-==========
-
 *Du 16 au 20 février 2014.*
 
 Jour 103 — Lundi 16 février 2015

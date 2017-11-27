@@ -3,9 +3,6 @@ title: "Semaine 14"
 date: 2014-12-08T13:15:29+01:00
 ---
 
-Semaine 14
-==========
-
 *Du 8 au 12 décembre 2014.*
 
 Jour 64 — Lundi 8 décembre 2014

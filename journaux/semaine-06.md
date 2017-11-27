@@ -3,9 +3,6 @@ title: "Semaine 06"
 date: 2014-10-13T13:15:29+01:00
 ---
 
-Semaine 6
-=========
-
 *Du 13 au 17 octobre 2014.*
 
 Jour 26 — Lundi 13 octobre 2014

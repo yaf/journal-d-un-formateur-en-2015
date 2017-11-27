@@ -3,9 +3,6 @@ title: "Semaine 02"
 date: 2014-09-15T13:15:29+01:00
 ---
 
-Semaine 2
-=========
-
 *Du 15 au 19 septembre 2014.*
 
 Jour 6 — Lundi 15 septembre 2014

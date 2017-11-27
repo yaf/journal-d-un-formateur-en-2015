@@ -3,9 +3,6 @@ title: "Semaine 07"
 date: 2014-10-20T13:15:29+01:00
 ---
 
-Semaine 7
-=========
-
 *Du 20 au 24 octobre 2014.*
 
 Jour 31 — Lundi 20 octobre 2014

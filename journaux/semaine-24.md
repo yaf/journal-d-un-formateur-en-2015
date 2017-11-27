@@ -3,9 +3,6 @@ title: "Semaine 24"
 date: 2014-02-23T13:15:29+01:00
 ---
 
-Semaine 24
-==========
-
 *Du 23 au 27 février 2014.*
 
 Jour 108 — Lundi 23 février 2015

@@ -3,9 +3,6 @@ title: "Semaine 25"
 date: 2014-03-02T13:15:29+01:00
 ---
 
-Semaine 25
-==========
-
 *Du 2 au 6 mars 2014.*
 
 Jour 113 — Lundi 2 mars 2015

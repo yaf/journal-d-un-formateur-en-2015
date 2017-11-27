@@ -3,9 +3,6 @@ title: "Semaine 15"
 date: 2014-12-15T13:15:29+01:00
 ---
 
-Semaine 15
-==========
-
 *Du 15 au 19 décembre 2014.*
 
 Jour 69 — Lundi 15 décembre 2014

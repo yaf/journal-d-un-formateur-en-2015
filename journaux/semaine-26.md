@@ -3,9 +3,6 @@ title: "Semaine 26"
 date: 2014-03-09T13:15:29+01:00
 ---
 
-Semaine 26
-==========
-
 *Du 9 au 13 mars 2014.*
 
 Jour 118 — Lundi 9 mars 2015

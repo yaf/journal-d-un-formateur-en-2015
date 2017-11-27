@@ -3,9 +3,6 @@ title: "Semaine 17"
 date: 2015-01-05T13:15:29+01:00
 ---
 
-Semaine 17
-==========
-
 *Du 5 au 9 janvier 2015.*
 
 Jour 74 — Lundi 5 janvier 2015

@@ -3,9 +3,6 @@ title: "Semaine 10"
 date: 2014-11-12T13:15:29+01:00
 ---
 
-Semaine 10
-==========
-
 *Du 12 au 14 novembre 2014.*
 
 Jour 46 — Mercredi 12 novenbre 2014

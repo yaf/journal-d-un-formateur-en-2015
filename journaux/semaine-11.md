@@ -3,9 +3,6 @@ title: "Semaine 11"
 date: 2014-11-17T13:15:29+01:00
 ---
 
-Semaine 11
-==========
-
 *Du 17 au 21 novembre 2014.*
 
 Jour 49 — Lundi 17 novembre 2014

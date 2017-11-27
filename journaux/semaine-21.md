@@ -3,9 +3,6 @@ title: "Semaine 21"
 date: 2014-02-02T13:15:29+01:00
 ---
 
-Semaine 21
-==========
-
 *Du 2 au 6 février 2014.*
 
 Jour 93 — Lundi 2 février 2015

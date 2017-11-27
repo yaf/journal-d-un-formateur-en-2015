@@ -3,9 +3,6 @@ title: "Semaine 01"
 date: 2014-09-08T19:42:05+01:00
 ---
 
-Semaine 1
-=========
-
 *Du 8 au 12 septembre 2014.*
 
 Jour 1 — Lundi 8 septembre 2014

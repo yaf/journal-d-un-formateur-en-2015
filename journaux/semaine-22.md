@@ -3,9 +3,6 @@ title: "Semaine 22"
 date: 2014-02-09T13:15:29+01:00
 ---
 
-Semaine 22
-==========
-
 *Du 9 au 13 février 2014.*
 
 Jour 98 — Lundi 9 février 2015

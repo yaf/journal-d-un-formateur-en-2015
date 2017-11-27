@@ -3,9 +3,6 @@ title: "Semaine 19"
 date: 2015-01-19T13:15:29+01:00
 ---
 
-Semaine 19
-==========
-
 *Du 19 au 23 janvier 2015.*
 
 Jour 83 — Lundi 19 janvier 2015

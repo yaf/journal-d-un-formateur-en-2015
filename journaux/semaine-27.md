@@ -3,9 +3,6 @@ title: "Semaine 27"
 date: 2015-03-16T13:15:29+01:00
 ---
 
-Semaine 27
-==========
-
 *Du 16 au 20 mars 2015.*
 
 Jour 123 — Lundi 16 mars 2015

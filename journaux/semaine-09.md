@@ -3,9 +3,6 @@ title: "Semaine 09"
 date: 2014-11-03T13:15:29+01:00
 ---
 
-Semaine 9
-=========
-
 *Du 3 au 7 novembre 2014.*
 
 Jour 41 — Lundi 8 novembre 2014

@@ -3,9 +3,6 @@ title: "Semaine 20"
 date: 2015-01-26T13:15:29+01:00
 ---
 
-Semaine 20
-==========
-
 *Du 26 au 30 janvier 2015.*
 
 Jour 88 — Lundi 26 janvier 2015

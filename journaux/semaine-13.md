@@ -3,9 +3,6 @@ title: "Semaine 13"
 date: 2014-12-01T13:15:29+01:00
 ---
 
-Semaine 13
-==========
-
 *Du 1 au 5 décembre 2014.*
 
 Jour 59 — Lundi 1 décembre 2014

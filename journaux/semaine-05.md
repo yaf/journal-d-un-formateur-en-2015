@@ -3,9 +3,6 @@ title: "Semaine 05"
 date: 2014-10-06T13:15:29+01:00
 ---
 
-Semaine 5
-=========
-
 *Du 6 au 10 octobre 2014.*
 
 Jour 21 — Lundi 6 octobre 2014
