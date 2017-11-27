@@ -3,8 +3,6 @@ title: "Semaine 25"
 date: 2014-03-02T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 25
-
 Semaine 25
 ==========
 

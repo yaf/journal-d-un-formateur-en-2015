@@ -3,8 +3,6 @@ title: "Semaine 19"
 date: 2015-01-19T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 19
-
 Semaine 19
 ==========
 

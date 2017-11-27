@@ -3,8 +3,6 @@ title: "Semaine 26"
 date: 2014-03-09T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 26
-
 Semaine 26
 ==========
 

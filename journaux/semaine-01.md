@@ -3,8 +3,6 @@ title: "Semaine 01"
 date: 2014-09-08T19:42:05+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 1
-
 Semaine 1
 =========
 

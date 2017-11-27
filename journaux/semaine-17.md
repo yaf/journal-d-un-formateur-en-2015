@@ -3,8 +3,6 @@ title: "Semaine 17"
 date: 2015-01-05T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 17
-
 Semaine 17
 ==========
 

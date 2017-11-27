@@ -3,8 +3,6 @@ title: "Semaine 12"
 date: 2014-11-24T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 12
-
 Semaine 12
 ==========
 

@@ -3,8 +3,6 @@ title: "Semaine 14"
 date: 2014-12-08T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 14
-
 Semaine 14
 ==========
 

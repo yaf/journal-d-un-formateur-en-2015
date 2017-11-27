@@ -3,8 +3,6 @@ title: "Semaine 06"
 date: 2014-10-13T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 6
-
 Semaine 6
 =========
 

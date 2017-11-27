@@ -3,8 +3,6 @@ title: "Semaine 03"
 date: 2014-09-22T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 3
-
 Semaine 3
 =========
 

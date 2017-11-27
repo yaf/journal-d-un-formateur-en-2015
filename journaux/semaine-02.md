@@ -3,8 +3,6 @@ title: "Semaine 02"
 date: 2014-09-15T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 2
-
 Semaine 2
 =========
 

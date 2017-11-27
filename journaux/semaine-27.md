@@ -3,8 +3,6 @@ title: "Semaine 27"
 date: 2015-03-16T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 27
-
 Semaine 27
 ==========
 

@@ -3,8 +3,6 @@ title: "Semaine 23"
 date: 2014-02-16T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 23
-
 Semaine 23
 ==========
 

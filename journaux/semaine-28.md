@@ -3,8 +3,6 @@ title: "Semaine 28"
 date: 2015-03-23T19:42:05+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 28
-
 Semaine 28
 ==========
 

@@ -3,8 +3,6 @@ title: "Semaine 22"
 date: 2014-02-09T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 22
-
 Semaine 22
 ==========
 

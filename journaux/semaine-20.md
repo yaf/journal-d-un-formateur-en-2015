@@ -3,8 +3,6 @@ title: "Semaine 20"
 date: 2015-01-26T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 20
-
 Semaine 20
 ==========
 

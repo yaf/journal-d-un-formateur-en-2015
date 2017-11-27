@@ -3,8 +3,6 @@ title: "Semaine 05"
 date: 2014-10-06T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 5
-
 Semaine 5
 =========
 

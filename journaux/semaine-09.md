@@ -3,8 +3,6 @@ title: "Semaine 09"
 date: 2014-11-03T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 9
-
 Semaine 9
 =========
 

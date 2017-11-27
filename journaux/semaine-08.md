@@ -3,8 +3,6 @@ title: "Semaine 08"
 date: 2014-10-27T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 8
-
 Semaine 8
 =========
 

@@ -3,8 +3,6 @@ title: "Semaine 18"
 date: 2015-01-12T13:15:29+01:00
 ---
 
-Journal d'un formateur en bootcamp - semaine 18
-
 Semaine 18
 ==========
 
