@@ -27,16 +27,16 @@ laprs-midi (ils ont du travail la maison alors, classe inverse ?),
 projet step-by-step. Ils prennent les projets une fois un peu sur les
 rails ?
 
-=&gt; Cela pose le problème du cheuvauchement.
+=> Cela pose le problème du cheuvauchement.
 
-=&gt; Quand peuvent-ils partir travailler en groupe sur leur projet ?
+=> Quand peuvent-ils partir travailler en groupe sur leur projet ?
 Avec plusieurs salles, on peut imaginer faire une salle commune dans
-laquelle il se passent du code commun la mo\[b programing,
-\](http://mobprogramming.org/)et certains peuvent aller travailler avec
-leur quipe dans une salle part.
+laquelle il se passent du code commun en [mobPrograming]
+(http://mobprogramming.org/) et certains peuvent aller travailler avec
+leur équipe dans une salle part.
 
 Idée à creuser. Il y a en tout cas un passage à applanir : groupe, kata
-=&gt; projet sur du Logiciel Libre.
+=> projet sur du Logiciel Libre.
 
 Jour 22 — Mardi 7 octobre 2014
 ------------------------------
@@ -45,10 +45,10 @@ Modification de l’espace commun pour essayer de le rendre plus
 confortable. L’idée étant que je m’y installe pour être plus près et
 disponible pour les élèves.
 
-visite dI\[ci Montreuil.\](http://www.icimontreuil.com/) Trs sympa. Je
-nai pas rcolt les feedbacks encore, mais a donne envie de faire des
-choses avec les rsidents. Par contre difficile dimaginer des
-interactions pertinentes pour le moment. suivre. Dcouverte : ils sont en
+visite d'[Ici Montreuil](http://www.icimontreuil.com/). Très sympa. Je
+n'ai pas récolté les feedbacks encore, mais ça donne envie de faire des
+choses avec les résidents du lieu. Par contre difficile d'imaginer des
+interactions pertinentes pour le moment, à suivre. Découverte : ils sont en
 status SCIC ! En voil un truc pertinent !
 
 Présentation du cycle de vie du logiciel. Présentation trop tournée sur
@@ -71,12 +71,10 @@ Jour 23 — Mercredi 8 octobre 2014
 Encore une nuit à gérer le chat. Est-ce que c’était une bonne idée ?
 Quel intérêt ?
 
-Kata du matin, nous abordons
-\[JavaScript\]\[(https:\](htt\[p://cod\](https://jasmine.github.io/)ingdojo.org/cgi-bin/index.pl?Kata\[Tennis\](https://nodejs.org/en/))//www.javascript.com/)
-(Garros) avec Jasmine dans le navigateur. Il faudra faire un peu de
-JavaScript avec NodeJS plus tard. Le format est vraiment intressant. Par
-contre il manque laspect discussion sur un plan, une direction, une
-intention. Est-ce vraiment ncessaire ? Lexercice nest-il pas de coder,
+Kata du matin, nous abordons JavaScript avec [Jasmine](https://jasmine.github.io/) dans le navigateur. 
+Il faudra faire un peu de JavaScript avec NodeJS plus tard. Le format est vraiment intressant. Par
+contre il manque l'aspect discussion sur un plan, une direction, une
+intention. Est-ce vraiment nécessaire ? L'exercice n'est-il pas de coder,
 lire du code, plus que de faire fonctionner le programme ?
 
 Discussion autour de la veille techno. Finalement, ce n’est peut-être
@@ -84,16 +82,15 @@ pas super intéressant. Beaucoup font déjà de la veille (ou on
 l’impression d’en faire). Faut-il utiliser certaines questions
 intéressante comme source de sujet.
 
-Rendez-vous avec lA\[PEDEC
-\](htt\[p://www.apedec.\](https://www.fablabs.io/ecodesignfablab)org/)et
-lEcoDesignFabLab pour visite, et ensuite avec le groupe qui va
-travailler avec eux. changes ouverts, des choses faire mais\[
-peut\](http://co-dev.org/)-tre rien de sorcier. Projet faire porter en
-partie par CoDev car ils ne veulent pas tre en avant (pour fdrer plus
-facilement). Ils pensaient que Simplon pourrait porter, mais cela semble
-plutt fait pour CoDev (asso, fablab). A voir avec Stphie.
+Rendez-vous avec l'[APEDEC](http://www.apedec) et
+l'[EcoDesignFabLab](http://ecodesignfablab.org/) pour visite, et ensuite avec le groupe qui va
+travailler avec eux. Echanges ouverts, des choses à faire mais 
+peut-être rien de sorcier. Projet à faire porter en
+partie par CoDev car ils ne veulent pas être en avant (pour fédérer plus
+facilement les autres fablab). Ils pensaient que Simplon pourrait porter, mais cela semble
+plutt fait pour CoDev (asso, fablab).
 
-Debrief avec lquipe. Ils partent sur une premire app simple :
+Debrief avec l'équipe. Ils partent sur une première app simple :
 documentation des projets au sein du fablab. Sin\[atra,
 b\](http://www.sinatrarb.com/)asique. Ils ont besoin de recueillir des
 donnes pour savoir comment orienter le service. Comme expliqu, il faut
