@@ -5,19 +5,17 @@ date: 2014-10-20T13:15:29+01:00
 
 *Du 20 au 24 octobre 2014.*
 
-Jour 31 — Lundi 20 octobre 2014
--------------------------------
+## Jour 31 — Lundi 20 octobre 2014
 
-Rencontre avec \[RezoSocial\](http://rezosocial.org/) Entreprise de
+Rencontre avec [RezoSocial](http://rezosocial.org/) Entreprise de
 Service Numrique (dition de logiciel, infogrance) dinsertion. Structure
 intressante, orientation sociale. Un peu comme nous (Simplon) mais plus
 quali que quanti Leur statut dentreprise dinsertion leur permet de
 bnficier dune assistante social une fois par semaine. Nous devrions
 essayer de mieux prendre en compte ces aspects.
 
-Dbut de M\[ob Programming \](http://mobprogramming.org/)avec lquipe qui
-travail sur la FOAD. Style principalement. Nous passons pas mal de temps
-faire le setup. a sera vraiment bien avec le serveur LDAP et le NFS.
+Début de Mob Programming avec l'équipe qui travail sur la FOAD. Style principalement. Nous passons pas mal de temps
+faire le setup. Ça sera vraiment bien avec le serveur LDAP et le NFS.
 Allez Catherine !
 
 Nous avons revu des aspects simple sur la visualisation des cours,
@@ -26,8 +24,7 @@ long termes comme le fait de remonter le contenu utile, celui de pouvoir
 ouvrir un dialogue clair avec l’utilisateur. Peu de personnes
 travaillent avec nous, mais l’équipe semble contente.
 
-Jour 32 — Mardi 21 octobre 2014
--------------------------------
+## Jour 32 — Mardi 21 octobre 2014
 
 Arrivé à 10h et des bananes, peu de monde, tant pis on commence avec
 ceux qui sont là. Frustration de ne pas arriver à faire le kata. J’ai le
@@ -39,10 +36,8 @@ comment tiendra-t-elle encore 6 mois de plus…
 
 Le ménage a (enfin) été fait, ça sent bon.
 
-Pause djeuner rapide, puis on continue sur une prsentation Le\[an Canvas
-i\](https://en.wikipedia.org/wiki/Business\_Model\_Canvas)ntressante,
-quelques changes avec ceux qui srement souhaitent monter une bote
-ensuite
+Pause déjeuner rapide, puis on continue sur une présentation Lean Canvas intressante,
+Quelques changes avec ceux qui sûrement souhaitent monter une boîte ensuite.
 
 Après la pause, nous faisons une session Mob Programming avec l’une des
 équipes qui a l’application de suivi d’impact social. Ils n’ont pour le
@@ -60,8 +55,7 @@ bien. L’expérience est vraiment bonne ! Ça me rappelle les formats de
 présentation du wagon (1er promo). Peut-être que se mettre en mode
 interview serait sympa ?
 
-Jour 33 — Mercredi 22 octobre 2014
-----------------------------------
+## Jour 33 — Mercredi 22 octobre 2014
 
 Le monsieur du ménage à refermé derrière lui, Une élève qui voulait
 venir tôt s’est retrouvée bloquée à la porte. Appeler l’ESAT pour leur
@@ -98,8 +92,7 @@ Au moment de partir, en descendant dans la salle, des questions: Rester
 dans la salle dans l’après midi pour éviter cette effet retard sur le
 départ ?
 
-Jour 34 — Jeudi 23 octobre 2014
--------------------------------
+## Jour 34 — Jeudi 23 octobre 2014
 
 Il semblerait que plusieurs des élèves, quand ils racontent ce qu’ils
 font à Simplon, font des envieux et/ou des intéressés. Comment faire des
@@ -157,8 +150,7 @@ pertinents sur le problème présent, mais c’est très intéressant.
 Assistance à l’équipe des «anonymes» qui travail sur la FOAD justement.
 Ils finissent des modifications sur le dashboard.
 
-Jour 35 — Vendredi 24 octobre 2014
-----------------------------------
+## Jour 35 — Vendredi 24 octobre 2014
 
 Préparation de notre séjour à l’Archipel avec Alix : gestion des tables
 et camion de déménagement, de la cafetière, de la bouilloire, des câbles

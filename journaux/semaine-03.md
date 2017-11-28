@@ -5,8 +5,7 @@ date: 2014-09-22T13:15:29+01:00
 
 *Du 22 au 26 septembre 2014.*
 
-Jour 11 — Lundi 22 septembre 2014
----------------------------------
+## Jour 11 — Lundi 22 septembre 2014
 
 Rappel de la façon dont nous allons travailler : faire comme si nous
 étions des équipes de dev, et apprendre en essayant de faire. Ceux qui
@@ -30,8 +29,7 @@ Démonstration de l’utilisation d’un langage, ici Ruby pour faire une
 application web. Rappel de l’intérêt d’utiliser des langages et de la
 programmation pour faire une app web: le coté dynamique.
 
-Nous construisons une interface graphique pour
-\[FizzBuzz\](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz).
+Nous construisons une interface graphique pour FizzBuzz.
 Rappel des phases requtes http, html, flux de travail, gem. Explication
 de Sinatra et erb.
 
@@ -64,13 +62,12 @@ demain.
 Pas de news des associés pour le fablab. Nous allons rester à Simplon du
 coup.
 
-Jour 12 — Mardi 23 septembre 2014
----------------------------------
+## Jour 12 — Mardi 23 septembre 2014
 
-Visite de lc\[ofablab d\](http://www.apedec.org/)e Mozinor. Trs sympa.
-Explication de lhistorique, change autour des principes et valeurs quils
-vhiculent et sur le fonctionnement de leur fablab. Evocation de projet
-avec le numrique quils aimeraient faire avec nous. Pourquoi pas, a fait
+Visite de l'[écodesignfablab](http://ecodesignfablab.org) de Mozinor. Très sympa.
+Explication de l'historique, échange autour des principes et valeurs qu'ils
+véhiculent et sur le fonctionnement de leur fablab. Evocation de projet
+avec le numérique qu'ils aimeraient faire avec nous. Pourquoi pas, ça fait
 un projet de plus.
 
 Visite de leur espace de coworking, juste à côté. Très chouette, belle
@@ -97,8 +94,7 @@ ou un logiciel, c’est le moment où on le jette. Ah, si, nous sommes
 arrivés là car ils évoquaient la possibilité de changer de groupe quand
 ils auraient fini avec un projet…
 
-Jour 13 — Mercredi 24 septembre 2014
-------------------------------------
+## Jour 13 — Mercredi 24 septembre 2014
 
 Des volontaires pour coder, 6 personnes, pour faire un FizzBuzz en TDD.
 J’ai parfois l’impression qu’ils pensent que Fizzbuzz est un outil
@@ -143,8 +139,8 @@ selectionné quelques activités nécessaires pour travailler en équipe:
 -   Web (http, html, css)
 -   Anglais
 
-en mettant c) quand ils ne savent pas par quel bout le prendre, b) quand
-ils comprennent mais on besoin d’aide et a) quand ils arrivent à se
+en mettant `c` quand ils ne savent pas par quel bout le prendre, `b` quand
+ils comprennent mais on besoin d’aide et `a` quand ils arrivent à se
 débrouiller tout seuls. D’abord en le faisant pour soi, puis je
 redistribue les tickets pour que 2 autres personnes donnent leurs avis.
 Il y a eu des discussions, quelques tentatives de blocage, mais je crois
@@ -158,13 +154,11 @@ mesure
 
 Fin de journée à 16h, Hager commence le déménagement.
 
-Jour 14 — Jeudi 25 septembre 2014
----------------------------------
+## Jour 14 — Jeudi 25 septembre 2014
 
 Hackathon Hager
 
-Jour 15 — Vendredi 26 septembre 2014
-------------------------------------
+## Jour 15 — Vendredi 26 septembre 2014
 
 Hackathon Hager
 

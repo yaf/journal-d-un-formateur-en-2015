@@ -5,8 +5,7 @@ date: 2014-11-12T13:15:29+01:00
 
 *Du 12 au 14 novembre 2014.*
 
-Jour 46 — Mercredi 12 novenbre 2014
------------------------------------
+## Jour 46 — Mercredi 12 novenbre 2014
 
 Visite de la ville Roubaix (le maire et son quipe), travaux dlectricit,
 perceuse Du coup nous avons vite fini lexplication de code sur Go,
@@ -44,8 +43,7 @@ Clojure, Scala, C, et Erlang. Les autres (Elixir, C++,…) pourrait être
 abordé en dojo, mais pas forcément en projet. Faut-il des projets pour
 chacun de ces langages d’ailleurs ? N’est-ce pas un peu trop ?
 
-Jour 47 — Jeudi 13 novenbre 2014
---------------------------------
+## Jour 47 — Jeudi 13 novenbre 2014
 
 10h, pas grand monde (5 personnes). Du coup kata en Go avec les motiv et
 prsents. a se droule pas mal :-). Ensuite prsentation dune lecture de
@@ -103,8 +101,7 @@ Un petit tableau à deux entrées pourrait accueillir les tickets nommés
 Comment faire un suivi ? Comment faire en sorte que deux paires ne se
 retrouvent pas trop souvent ?
 
-Jour 48 — Vendredi 14 novenbre 2014
------------------------------------
+## Jour 48 — Vendredi 14 novenbre 2014
 
 Dur travail de mémoire pour se souvenir de ce qu’ils ont appris durant
 ces 12 derniers jours ! Nous n’avons pas pu faire de FOAD depuis 2
@@ -121,5 +118,3 @@ Livraison en deux étapes. La première devrait avoir lieu ce week-end, et
 la seconde en fin de semaine prochaine (évitons l’effet nouveau contenu
 de lundi soir).
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

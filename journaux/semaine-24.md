@@ -3,10 +3,7 @@ title: "Semaine 24"
 date: 2014-02-23T13:15:29+01:00
 ---
 
-*Du 23 au 27 février 2014.*
-
-Jour 108 — Lundi 23 février 2015
---------------------------------
+## Jour 108 — Lundi 23 février 2015
 
 Le matin, démarrage sur un projet, comme convenu le vendredi. Les élèves
 démarrent seul (j’ai eu un empechement). C’est assez chaotique, et du
@@ -14,8 +11,7 @@ coup c’est toujours les même questions qui reviennent: Par où doit-on
 commencer ? Quel test écrire ? Quand faire un test et quand n epas en
 faire ? Comment les aider sans tuer le chemin de découverte ?
 
-Jour 109 — Mardi 24 février 2015
---------------------------------
+## Jour 109 — Mardi 24 février 2015
 
 Reprise du projet, cette fois je pilote un peu plus… Difficile
 d’ailleurs: quel chemin prendre ? Celui qui avance dans la feature vers
@@ -37,8 +33,7 @@ départ, ça ne me surprend pas trop et ça me va tant que ça ne gène pas
 ceux qui ont accepter de jouer le jeux. Je pense que je vais être
 beaucoup plus cash avec cet élève maintenant
 
-Jour 110 — Mercredi 25 février 2015
------------------------------------
+## Jour 110 — Mercredi 25 février 2015
 
 Dans le salon d’Erwan ce matin. Nous sommes peu nombreux, c’est vraiment
 bien ! Limiter le nombre d’apprenant à 10 maximum en simultané me parait
@@ -55,8 +50,7 @@ Est-ce que ça pourrait occuper toutes les journées de la semaine ? Avec
 des phases différentes dans les journées, genre mobProgramming une demi
 journée, et analyse des pull request ensuite ?
 
-Jour 111 — Jeudi 26 février 2015
---------------------------------
+## Jour 111 — Jeudi 26 février 2015
 
 Le format de l’application est intéressant: il permet de découvrir petit
 à petit divers façon de construire l’application, comment couper en plus
@@ -70,13 +64,10 @@ réviser comment faire avec le compte git. Créer un pseudo compte commun
 certaines tensions lié à de la vie de groupe. Le lieu est tellement
 important dans l’ambiance qu’il installe !
 
-Jour 112 — Vendredi 27 février 2015
------------------------------------
+## Jour 112 — Vendredi 27 février 2015
 
 Il est resorti de la rétrospective que l’environnement est effectivement
 important. La matinée dans le salon d’Erwan, au calme, a été apprécié.
 Nous y étions aussi peu nombreux, ça aide. Il faut demander à utiliser
 l’aquarium pour le matin au moins (voir toute la journée ?).
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

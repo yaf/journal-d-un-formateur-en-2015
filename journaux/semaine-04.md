@@ -5,8 +5,7 @@ date: 2014-09-29T13:15:29+01:00
 
 *Du 29 septembre au 3 octobre 2014.*
 
-Jour 16 — Lundi 29 septembre 2014
----------------------------------
+## Jour 16 — Lundi 29 septembre 2014
 
 Comme prévenus, nous avons passé quelques minutes à tout remettre en
 place suite au Hackathon Hager. L’équipes est plutôt bien disposée pour
@@ -22,8 +21,7 @@ d’après ?
 Difficile de faire un screencast. Ils scénarisent mais rien n’est tourné
 le moment-même.
 
-Jour 17 — Mardi 30 septembre 2014
----------------------------------
+## Jour 17 — Mardi 30 septembre 2014
 
 [kataGarros](http://codingdojo.org/kata/Tennis/) en
 [Ruby](https://ruby-lang.org) (l'autre choix était
@@ -64,8 +62,7 @@ présentation grand public ?
 Peut demander à chaque groupe de présenter un projet devant les autres:
 c’est quoi ? ça fait quoi ?
 
-Jour 18 — Mercredi 1 octobre 2014
----------------------------------
+## Jour 18 — Mercredi 1 octobre 2014
 
 Kata FizzBuzz en Python (l'autre proposition était un [Kata
 Bowling](http://codingdojo.org/kata/Bowling/) en Ruby). Bien apprécié de
@@ -124,8 +121,7 @@ même temps qu’une planning de sprint ? Faut-il faire du flux continue
 sur les tickets plutôt que du sprint ? Faire installer un serveur
 d’intégration continue !
 
-Jour 19 — Jeudi 2 octobre 2014
-------------------------------
+## Jour 19 — Jeudi 2 octobre 2014
 
 Temps de setup un peu long prévoir une machine spéciale Dojo. Pas
 beaucoup d'avancées dans le code. À la fin, prise du clavier pour
@@ -212,8 +208,7 @@ c’est mieux. Attention au piège des projets clients qui sont des projets
 qui démarrent de zéro. Ceci dit, c’est intéressant car plus évolutif
 comme difficulté. Un bon mixte des deux est vraiment intéressants !*
 
-Jour 20 — Vendredi 3 octobre 2014
----------------------------------
+## Jour 20 — Vendredi 3 octobre 2014
 
 Petit point rappel sur le fait que la FOAD s’ouvre lundi prochain. Donc
 en plus de faire les contenus de la semaine 4, il faut penser à relire,

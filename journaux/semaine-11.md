@@ -5,8 +5,7 @@ date: 2014-11-17T13:15:29+01:00
 
 *Du 17 au 21 novembre 2014.*
 
-Jour 49 — Lundi 17 novembre 2014
---------------------------------
+## Jour 49 — Lundi 17 novembre 2014
 
 Nous partons pour essayer de faire un Sudoku en
 \[JavaScript.\](https://developer.mozilla.org/en-US/docs/Web/JavaScript)\[
@@ -67,8 +66,7 @@ L’autre orientation possible c’est faire de la prod en mode insertion.
 Faire des apps et être payé pour, faire des app sociales, trouver des
 idées et les mettre en oeuvre (idée originale d’Andreï et Erwan non ?).
 
-Jour 50 — Mardi 18 novembre 2014
---------------------------------
+## Jour 50 — Mardi 18 novembre 2014
 
 Arrivée tard, les élèves préfèrent travailler sur les tickets et les
 présentations qu’ils ont à faire. J’en profite pour régler des points
@@ -92,8 +90,7 @@ Ensuite, deux élèves nous ont présentés du code
 [PyGames](http://www.pygame.org/). Très amusant pour la peine. Faut-il
 traiter plus de jeux pour intresser ?
 
-Jour 51 — Mercredi 19 novembre 2014
------------------------------------
+## Jour 51 — Mercredi 19 novembre 2014
 
 Ce matin, retard encore, mais nous démarrons un Kata Morpion en
 [Ruby](https://ruby-lang.org) à 10h45.
@@ -107,8 +104,7 @@ revoyons les objets, les attributs et des principes de base.
 L’après midi est utilisée pour faire les entretiens individuels. J’en ai
 vu encore 5. Il me reste encore 11 personnes à voir.
 
-Jour 52 — Jeudi 20 novembre 2014
---------------------------------
+## Jour 52 — Jeudi 20 novembre 2014
 
 Démo ce matin. Très peu d’équipes ont vraiment livré quelque chose.
 Est-ce parce qu’ils savaient que je voulais changer la façon de faire ?
@@ -139,8 +135,7 @@ affichée à côté. Nous n’affichons que les exceptions dans le planning.
 J’espère que ça redonnera la motivation à ceux qui l’on perdu, en tout
 cas, ça devrait donner plus de rythme.
 
-Jour 53 — Vendredi 21 novembre 2014
------------------------------------
+## Jour 53 — Vendredi 21 novembre 2014
 
 Encore une fois, pas grand monde à 10h… Nous attendons un peu. Nous
 faisons finalement la rétrospective. Je vais faire un email pour
@@ -156,5 +151,3 @@ début d’après-midi.
 Je profite de cette après midi pour faire passer quelques entretiens de
 plus. Il m’en reste 7.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

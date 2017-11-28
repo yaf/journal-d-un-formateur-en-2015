@@ -3,10 +3,7 @@ title: "Semaine 25"
 date: 2014-03-02T13:15:29+01:00
 ---
 
-*Du 2 au 6 mars 2014.*
-
-Jour 113 — Lundi 2 mars 2015
-----------------------------
+## Jour 113 — Lundi 2 mars 2015
 
 Une seule personne ce matin à 10h. Du coup nous partons sur un des
 projets qui lui tiens à coeur ! Certains sont déçu, tant pis, c’est le
@@ -21,8 +18,7 @@ n’ayant rien préparé, le temps d’installation est délicat. Ces
 promenades en univers libre devraient être un peu préparer, mais quand
 préparer ? Il faudrait au moins repérer les projets qui s’y prete.
 
-Jour 114 — Mardi 3 mars 2015
-----------------------------
+## Jour 114 — Mardi 3 mars 2015
 
 Nous avonçons sur le projet du matin, c’est intéressant de suivre un
 projet comme ça. Peu de monde aujourd’hui, j’ai compté 8 personnes en
@@ -32,8 +28,7 @@ le local), les questions, trouver des idées de sujets… Et tout ça avec
 des personnes qui continue à ne pas venir ou se plaindre… Heureusement
 qu’il y a ceux qui suivent.
 
-Jour 115 — Mercredi 4 mars 2015
--------------------------------
+## Jour 115 — Mercredi 4 mars 2015
 
 Les petits groupes c’est vraiment pratique: les échanges y sont de
 meilleur qualité, c’est plus simple de se respecter les uns et les
@@ -57,8 +52,7 @@ mais c’est dur. Surtout cumulé avec l’impression que Simplon fonce quand
 même dans ce schéma de formation pour insertion pro sans vraiment
 connaitre le métier.
 
-Jour 116 — Jeudi 5 mars 2015
-----------------------------
+## Jour 116 — Jeudi 5 mars 2015
 
 Encore de beau apprentissages ensemble ce matin. Ce format d’un projet
 sur la semaine est vraiment sympa. Nous avons expérimenté 2 vidéo proj
@@ -70,13 +64,10 @@ entre les deux groupes. Un peu de perturbation l’après midi car présence
 de france2, mais ça va, Erwan et l’équipe gère bien le truc, ça ne
 dérange pas trop (en plus ils sont arrivé tard).
 
-Jour 117 — Vendredi 6 mars 2015
--------------------------------
+## Jour 117 — Vendredi 6 mars 2015
 
 Rétrospective dans le bocal pour éviter France3. Peu de monde, mais ça
 se passe bien. Beaucoup de tickets à propos de la fin de promo qui
 arrive… Stress, mélancolie, difficile de gérer ce genre de moment. Cette
 après midi peu de monde, je ne suis pas très bien, je vais rentrer.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

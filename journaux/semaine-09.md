@@ -5,8 +5,7 @@ date: 2014-11-03T13:15:29+01:00
 
 *Du 3 au 7 novembre 2014.*
 
-Jour 41 — Lundi 8 novembre 2014
--------------------------------
+## Jour 41 — Lundi 8 novembre 2014
 
 Petit point matinal sur le planning, rappel de notre séjour à
 l'[Archipel](http://www.larchipel.paris/larchipel/aurore/) prévu pour
@@ -77,8 +76,7 @@ lieu tout les débuts d’après midi, puis, on attend qu’au moins un ou
 deux autres équipes restituent pour regénérer des paires à partir de
 ceux qui ont terminé. A méditer…
 
-Jour 42 — Mardi 4 novembre 2014
--------------------------------
+## Jour 42 — Mardi 4 novembre 2014
 
 Aujourd’hui, c’est un jour spécial, et pourtant nous n’avons rien fait
 de bizarre…
@@ -111,8 +109,7 @@ De trs bon changes, et du coup, jaimerais introduire C\#
 le cursus (via Mono !). Sinon, les changes autour de Go donnent envie,
 une fois de plus, davoir loccasion de pratiquer ce langage.
 
-Jour 43 — Mercredi 5 novembre 2014
-----------------------------------
+## Jour 43 — Mercredi 5 novembre 2014
 
 Comme d’habitude, il n’y à pas grand monde à 10h… Est-ce que je dois
 être plus strict sur les horaires ? Je crois surtout que je
@@ -160,8 +157,7 @@ pense que je peux gérer les paires par tirage au sort manuel, mais pour
 ce qui est des projets, il me faut surement préparer un peu la listes
 des bugs qu’ils pourraient essayer de corriger.
 
-Jour 44 — Jeudi 6 novembre 2014
--------------------------------
+## Jour 44 — Jeudi 6 novembre 2014
 
 Archipel, analyse des résultat de sprint. Demo par équipe. Il est
 sûrement plus facile de faire des choses sur un existant que de créer
@@ -184,8 +180,7 @@ Ce qui est intéressant avec des scéances comme celle-ci, c’est que des
 sujets apparaissent dans les discussions. Comment faire des démos
 efficaces si je demande à tous de travailler en binôme aléatoire ?
 
-Jour 45 — Vendredi 7 novembre 2014
-----------------------------------
+## Jour 45 — Vendredi 7 novembre 2014
 
 Rétrospective un peu longue (démarrée tardivement ?). Puis travail sur
 les projets. Pour le reste, toujours les même soucis qui ressortent :
@@ -203,5 +198,3 @@ projets libre l’après midi.
 Quid des clients (acacias for all et apedec/eco design fablab) et de la
 relation avec eux ?
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

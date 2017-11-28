@@ -5,8 +5,7 @@ date: 2014-11-24T13:15:29+01:00
 
 *Du 24 au 28 novembre 2014.*
 
-Jour 54 — Lundi 24 novembre 2014
---------------------------------
+## Jour 54 — Lundi 24 novembre 2014
 
 Ce matin, un peu plus de monde que d’habitude. Le petit mail un peu
 sévère a eu de l’effet. Par contre, je n’applique pas ce que j’ai dit
@@ -44,8 +43,7 @@ la place des femmes dans lIT.
 
 Bon feeling du groupe en général. J’espère que ça va continuer.
 
-Jour 55 — Mardi 25 novembre 2014
---------------------------------
+## Jour 55 — Mardi 25 novembre 2014
 
 Ce matin entretien. En dbut daprs midi prsentation, une premire sur un
 bug sur Activ\[eRecord, un
@@ -57,14 +55,12 @@ sur un apro FOAD.
 
 Journée chargée, courte, avec pas grand chose à raconter.
 
-Jour 56 — Mercredi 26 novembre 2014
------------------------------------
+## Jour 56 — Mercredi 26 novembre 2014
 
 Journée à l’Agile Tour Paris. Quelques déceptions, beaucoup de
 conférences tournent à la vente de produit. Dommage.
 
-Jour 57 — Jeudi 27 novembre 2014
---------------------------------
+## Jour 57 — Jeudi 27 novembre 2014
 
 Ce matin, rendez-vous Société Générale dans les locaux, nous sommes
 repoussé un peu plus loin. L’activité démarre en retard. Après un petit
@@ -76,8 +72,7 @@ vont tourner comme il faut.
 
 Ensuite, je fais un peu d’administratif…
 
-Jour 58 — Vendredi 28 novembre 2014
------------------------------------
+## Jour 58 — Vendredi 28 novembre 2014
 
 Rétro ce matin. Quelques retardataires, mais ils préviennent, nous les
 attendons. Les points que j’ai relevés sont:
@@ -103,5 +98,3 @@ attendons. Les points que j’ai relevés sont:
 J’ai également vu encore 3 élèves en entretien individuel. Il me manque
 encore 2 pour avoir fait le tour. J’essayerais de le faire avant Noël.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

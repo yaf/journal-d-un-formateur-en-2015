@@ -5,8 +5,7 @@ date: 2014-02-09T13:15:29+01:00
 
 *Du 9 au 13 février 2014.*
 
-Jour 98 — Lundi 9 février 2015
-------------------------------
+## Jour 98 — Lundi 9 février 2015
 
 3 personnes ce matin pour décider du langage de la semaine, puis du Kata
 du jour. 2 seulement souhaite participer… Une 4ième personnes arrive à
@@ -19,8 +18,7 @@ qui s’en sortent vraiment bien, viens de ce faire recaller à un
 entretien… Dur de devenir un dev. J’espère quand même qu’ils trouverons
 une petite place quelque part.
 
-Jour 99 — Mardi 10 février 2015
--------------------------------
+## Jour 99 — Mardi 10 février 2015
 
 De nouveaux participants au kata ce matin (il n’est jamais trop tard).
 Est-ce lié à la fin de formation qui approche ? Ou bien au retour des
@@ -34,8 +32,7 @@ plus facile à trouver/accéder pour des débutants ? Les formats de
 l’après tourne bien, mais c’est vraiment très individuel, ça ne colle
 pas.
 
-Jour 100 — Mercredi 11 février 2015
------------------------------------
+## Jour 100 — Mercredi 11 février 2015
 
 Un kata assez simple ce matin, tu coup, en deuxième partie, j’ai fait du
 blabla autour des bases de données NoSQL. Ce format où je parle me
@@ -46,8 +43,7 @@ case avec mise en oeuvre ? L’après midi ressemble à toutes ces dernières
 après midi: les personnes défile avec leurs problèmes perso, et je les
 règles… Pas très optimisé je pense. Que faire ?
 
-Jour 101 — Jeudi 12 février 2015
---------------------------------
+## Jour 101 — Jeudi 12 février 2015
 
 Encore le même kata (ça à été le même toute la semaine). Mais là nous
 avons réussi quelques chose. Pattern intéressant de faire le même
@@ -67,12 +63,9 @@ formation, un n’est presque pas là, ce qui fait un groupe restreint
 formateur, plutôt correct et presque viable, sans le bruit autour, ça
 irais presque. Attention à limiter la quantité de candidat.
 
-Jour 102 — Vendredi 13 février 2015
------------------------------------
+## Jour 102 — Vendredi 13 février 2015
 
 Rétro du vendredi. Quelques prises de conscience : la fin approche.
 Comment optimiser ces derniers instants ? Certains demandent après les
 cours de soutien.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

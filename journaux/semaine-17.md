@@ -3,10 +3,7 @@ title: "Semaine 17"
 date: 2015-01-05T13:15:29+01:00
 ---
 
-*Du 5 au 9 janvier 2015.*
-
-Jour 74 — Lundi 5 janvier 2015
-------------------------------
+## Jour 74 — Lundi 5 janvier 2015
 
 C’est la rentrée, nous mettons en place certains changement que nous
 avons décidé lors de la dernière retrospective:
@@ -44,8 +41,7 @@ d’élèves dans les écoles (collège et primaire). Dommage que je n’ai pas
 pensé à leur dire de parler de cela devant tout le monde plutôt que dans
 un petit coin.
 
-Jour 75 — Mardi 6 janvier 2015
-------------------------------
+## Jour 75 — Mardi 6 janvier 2015
 
 Ce matin, un peu de retard au démarrage. Il serait peut-être intéressant
 de regarder Rack ? Première partie toujours un peu laborieuse. Faire un
@@ -61,8 +57,7 @@ présentation de pullreview. Peut-être que sont utilisation pourrait être
 intéressante, si gratuite sur les projets open source. Les élèves qui
 vont au Paris'rb de ce soir l’accompagnerons normalement…
 
-Jour 76 — Mercredi 7 janvier 2015
----------------------------------
+## Jour 76 — Mercredi 7 janvier 2015
 
 Ce matin, les partants commençait à regarder un kata lisant des données.
 Je leur ai proposé de faire un Kata appel du 18 juin. Ce kata lit un
@@ -75,8 +70,7 @@ Cette après midi, des questions autour de design, d’icone et d’emploi.
 Puis Eric Mahé nous à parlé de programmation parallèle. Sujet
 passionant.
 
-Jour 77 — Jeudi 8 janvier 2015
-------------------------------
+## Jour 77 — Jeudi 8 janvier 2015
 
 SlowKata ce matin. Priorité à ceux qui habituellement reste sur le coté,
 sans forcement poser leurs questions. C’est intéressant, nous allons
@@ -96,8 +90,7 @@ avancer sur d’autre sujet. Cette partie de mob programming était
 finalement du binômage publique. Dommage ! Comment faire pour que tout
 le monde soit présent ? Est-ce bien ?
 
-Jour 78 — Vendredi 9 janvier 2015
----------------------------------
+## Jour 78 — Vendredi 9 janvier 2015
 
 Rétrospective intéressante mais pas de grand changement. Une sorte de
 rendez-vous en début d’après midi pour évoquer ce que chacun fait, les
@@ -112,5 +105,3 @@ Le SpeedJobbing d’hier soir, bien qu’autour uniquement de Ruby, à permis
 rendez-vous avec des recruteurs pour qu’ils viennent proposer des
 offres.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

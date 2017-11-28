@@ -3,10 +3,7 @@ title: "Semaine 18"
 date: 2015-01-12T13:15:29+01:00
 ---
 
-*Du 12 au 15janvier 2015.*
-
-Jour 79 — Lundi 12 janvier 2015
--------------------------------
+## Jour 79 — Lundi 12 janvier 2015
 
 Réunion avec Matodzi, formatrice pour le simplon.co afrique du sud. Elle
 semble faire plutôt du php et ne pas forcement être rodé aux pratiques
@@ -18,8 +15,7 @@ sur les envies de chacuns, et nous en profitons pour annoncer (et
 afficher) qui souhaite, ou bien n’est pas contre, avoir un binome pour
 travailler sur son sujet.
 
-Jour 80 — Mardi 13 janvier 2015
--------------------------------
+## Jour 80 — Mardi 13 janvier 2015
 
 Ce matin, beaucoup de retard de la part de certains, et des difficulté à
 trouver un sujet. L’idée viens alors de faire du node. js. Nous
@@ -39,8 +35,7 @@ montrer l’occulus et l’imprimante 3d, et au final, il c’est fait
 déborder et ils sont tous venu nous regarder, comme au ZOO. C’était une
 sensation assez désagréable.
 
-Jour 81 — Mercredi 14 janvier 2015
-----------------------------------
+## Jour 81 — Mercredi 14 janvier 2015
 
 Le kata de ce matin: slow kata. Nous discutons beaucoup autour de la
 problématique de smell code. La capacité à sentir le code dois être
@@ -56,8 +51,7 @@ le local, alors que tous était en réunion d’équipe dans le bocal… Je
 pense avoir été très froid, mais bon. Etre prévenu serais le minimum.
 C’est le retour du tier lieux ?
 
-Jour 82 — Jeudi 15 janvier 2015
--------------------------------
+## Jour 82 — Jeudi 15 janvier 2015
 
 Kata Slow sur un des exercice de exercism, Bob, le premier pour
 javascript. C’est un bonne outils, mais les tests sont déjà écrit.
@@ -68,5 +62,3 @@ projets utilisant les technos choisi pour les katas de la semaine ? Dans
 ce cas, il faudrais surement prolonger. Une semaine c’est court pour
 réaliser certains projets et/ou certaines participations.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

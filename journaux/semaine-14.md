@@ -3,18 +3,14 @@ title: "Semaine 14"
 date: 2014-12-08T13:15:29+01:00
 ---
 
-*Du 8 au 12 décembre 2014.*
-
-Jour 64 — Lundi 8 décembre 2014
--------------------------------
+## Jour 64 — Lundi 8 décembre 2014
 
 La Poste en masse dans le local de Montreuil, du coup nous sommes
 envoyés sans internet ni chauffage à L’Archipel. Nous en profitons pour
 faire des révisions. Questions ouvertes, puis, point par point, nous
 travaillons dessus ensemble.
 
-Jour 65 — Mardi 9 décembre 2014
--------------------------------
+## Jour 65 — Mardi 9 décembre 2014
 
 Rvisions encore aujourdhui. Nous attaquons par un gros morceau :
 Parseur. Jutilise souvent ce mot apparement. Cest normal, tout est
@@ -43,8 +39,7 @@ tableaux, nous avons chang de direction en cours de route.
 J’aimerais mettre mon journal dans un fichier unique doc sur le drive,
 comment faire ?
 
-Jour 66 — Mercredi 10 décembre 2014
------------------------------------
+## Jour 66 — Mercredi 10 décembre 2014
 
 Nouveau format pour le dojo, suite à la discussion de vendredi pendant
 la rétrospective. A 10h, proposition de sujets par les élèves, vote,
@@ -65,8 +60,7 @@ Peut-être ne faut-il pas faire de randori ?
 
 Cette après midi, ils travaillent sur leur ticket.
 
-Jour 67 — Jeudi 11 décembre 2014
---------------------------------
+## Jour 67 — Jeudi 11 décembre 2014
 
 Encore moins de monde ce matin pour choisir le sujet, du coup j'impose
 Lags en [Python](https://www.python.org). Est-ce qu'il y a un soucis
@@ -81,8 +75,7 @@ Prsentation de F\[orem,\](https://github.com/rubysherpas/forem) install
 dans Simplonline. Des difficults, mais une grosse partie du job t fait !
 Il faut faire le style et voir la gestion des divers utilisateurs.
 
-Jour 68 — Vendredi 12 décembre 2014
------------------------------------
+## Jour 68 — Vendredi 12 décembre 2014
 
 Rétrospective ce matin. Les élèves m’ont demandés de participer moi
 aussi à la retrospective. C’était intéressant car effectivement, soit je
@@ -90,5 +83,3 @@ devais en sortir, soit je devais y participer.
 
 Par contre il va falloir gérer un peu mieux la transition.
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).

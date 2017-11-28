@@ -5,10 +5,9 @@ date: 2014-10-13T13:15:29+01:00
 
 *Du 13 au 17 octobre 2014.*
 
-Jour 26 — Lundi 13 octobre 2014
--------------------------------
+## Jour 26 — Lundi 13 octobre 2014
 
-\[Kata Garros\](http://codingdojo.org/cgi-bin/index.pl?KataTennis) en
+[Kata Garros](http://codingdojo.org/cgi-bin/index.pl?KataTennis) en
 JavaScript. Difficult avancer. Encore ce problme de comparaison de
 tableaux. En fait, il ne faut pas le faire en JavaScript. Il faut
 trouver une autre voie. Rodolphe ma fait un retour intressant: je leur
@@ -17,10 +16,9 @@ aider la mettre en place. Lanne dernire (1er promo), je me mettais dans
 la boucle, est-ce que je doit me mettre dans la boucle ?
 
 Pendant une heure ensuite, nous avons fait le commit sur Simplonline (et
-donc vue diffrents aspect de rails, de g\[it
-\](http\[s://gi\](https://github.com/)t-scm.com/)et de github). Pas sr
-quils aient tous compris. Comment proposer un Mob Programming et faire
-en sorte que les autres puissent faire un truc de leur ct ?
+donc vue diffrents aspect de rails, de git et de github). Pas sûr qu'ils aient
+tous compris. Comment proposer un Mob Programming et faire en sorte que les
+autres puissent faire un truc de leur côté ?
 
 Découvert à la réunion d’équipe que la TV vient demain matin et mercredi
 matin: comment gérer ce truc ? Faut-il faire cours ? J’ai peur de perdre
@@ -41,8 +39,7 @@ faire patienter ?
 
 Demain je testerais un nouveau kata et surtout de moins participer.
 
-Jour 27 — Mardi 14 octobre 2014
--------------------------------
+## Jour 27 — Mardi 14 octobre 2014
 
 Ce matin, BFMTV. Ne souhaitant pas être filmé, je reste à l’écart.
 Rodolphe et là et ok pour jouer le jeux. Il fait un cours sur Rails et
@@ -68,8 +65,7 @@ place une sorte de table ronde. Utiliser un pseudo format retrospective
 ? Comment permettre à chacun de poser ses questions et à tous d’entendre
 les réponses ? À voir demain. Nous ferons ce point jeudi de 17h à 18h.
 
-Jour 28 — Mercredi 15 octobre 2014
-----------------------------------
+## Jour 28 — Mercredi 15 octobre 2014
 
 Ce matin, France24. Pas de cours, comme hier matin. Certains élèves
 jouent le jeu.
@@ -78,11 +74,10 @@ Après midi, une présentation sur JavaScript, mais ça part trop dans la
 syntaxe et le comment ça marche plutôt que dans le pourquoi ? Il faut
 que je pose des questions précises sur un sujet pour l’orienter.
 
-Kata
-\[RomanToNumber\](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
-en Javascript. Intressant, mais long au dmarrage. Cest bien de ne pas
-dicter mais poser des questions. Ils dclenchent une capture vido des
-dojo maintenant
+Kata [RomanToNumber](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
+en Javascript. Intéressant, mais long au démarrage. C'est bien de ne pas
+dicter mais poser des questions. Ils déclenchent une capture vidéo des
+kata maintenant
 
 Kata NumberToRoman en [Python](https://www.python.org). Ce kata assez
 simple est très instructif. Les élèves commencent à se sentir mieux on
@@ -105,11 +100,10 @@ demander une certaine forme dexercice, je pourrais peut-tre ouvrir la
 porte dautres plateformes. Jtais parti sur lide davoir un truc tout
 intgr, mais est-ce quil ne faudrait pas avoir une multitude de morceaux
 qui font chacun un job bien ? Le wagon avait un simple discourse pour
-difuser le\[s cours (\](https://www.discourse.org/)et chatter genre
-forum ?). Associ une instance Yose The Game, peut-tre que a pourrais
-faire le job ? Voir jouer avec un github ou un gitlab et leur demander
-de proposer du code selon un exercice texte simple, et automatiser le
-rsultat
+difuser les cours et chatter genre forum ?. Associ une instance Yose The Game,
+peut-tre que a pourrais faire le job ? Voir jouer avec un github ou un gitlab
+et leur demander de proposer du code selon un exercice texte simple, et
+automatiser le rsultat
 
 Pour le deuxième point, c’est clair qu’il faudrait une personnes dédiée
 à la gestion de communauté. Elle pourrait faire d’autres trucs à coté
@@ -136,14 +130,13 @@ des cours déjà écrit ? (on peut les distiller…).
 
 Est-ce que nous avons bien fait de faire cette FOAD ?
 
-Jour 29 — Jeudi 16 octobre 2014
--------------------------------
+## Jour 29 — Jeudi 16 octobre 2014
 
 change téléphonique avec une connaissance (35 ans dans linformatique)
 pour lui demander quel tarifs les cabinet de recrutement pratiquent. Il
 confirme ce que je pense: 10 15\\% du salaire annuel brut. Par contre il
 me prcise que de la part dune cole cest un peu louche. Je dois jeter un
-coup doeil la hacker scho\[ol pour voir,\](https://www.recurse.com/)
+coup doeil la hacker school pour voir,
 leur business model semble tre bas sur cela ?. Il voque plutt le
 paiement pendant un stage (voir une alternance, on reviens cette ide).
 Je nai toujours pas regard le RNCP.
@@ -199,8 +192,7 @@ si ?) avec un ordi connecté à IRC avec un compte simplon…
 Plusieurs ont remarqué des erreurs dans le cours sur l’installation de
 [Ruby](https://ruby-lang.org). C’est en cours de reprise.
 
-Jour 30 — Vendredi 17 octobre 2014
-----------------------------------
+## Jour 30 — Vendredi 17 octobre 2014
 
 Pour la première fois, nous essayons un outil de réstrospective. Cela
 fonctionne bien, ils vident un peu leur sac. Le soucis c’est que c’est

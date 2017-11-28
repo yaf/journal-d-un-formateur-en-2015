@@ -5,8 +5,7 @@ date: 2014-10-27T13:15:29+01:00
 
 *Du 27 au 31 octobre 2014.*
 
-Jour 36 — Lundi 27 octobre 2014
--------------------------------
+## Jour 36 — Lundi 27 octobre 2014
 
 Ce matin, rendez-vous à l'[Archipel](http://www.larchipel.paris/).
 Visite et discussion, il ny a toujours pas internet. Les gars qui s'en
@@ -28,8 +27,7 @@ L’agencement «bureau avec des petites pièces et une grande principale»,
 voir une deuxième pour la partie nourriture et repos semble vraiment
 parfait.
 
-Jour 37 — Mardi 28 octobre 2014
--------------------------------
+## Jour 37 — Mardi 28 octobre 2014
 
 Arrivé tôt à l’Archipel. Rangement des affaires déménagées le lundi.
 Beaucoup de merde, des étagères inmontables, du matériel informatique un
@@ -97,8 +95,7 @@ Petit dojo en fin de journe sur n\[umber to roman
 Sans moi. Ils sont tombs dans le pige de faire I, puis II, puis III Dur
 ensuite de reprendre le bon sens
 
-Jour 38 — Mercredi 29 octobre 2014
-----------------------------------
+## Jour 38 — Mercredi 29 octobre 2014
 
 À 10h, peu de monde et à 11h Fred doit venir pour parler avec les
 élèves, du coup on fait un mode questions/réponses large. Cela permet de
@@ -147,8 +144,7 @@ oublié dans la présentation de lundi : le pattern matching.
 Pas d’enregistrement, il faut que j’installe Istanbul sur ma machine
 pour pouvoir faire des screencasts.
 
-Jour 39 — Jeudi 30 octobre 2014
--------------------------------
+## Jour 39 — Jeudi 30 octobre 2014
 
 Nous sommes aujourdhui lOpe\[nWorldForum.
 A\](https://fr.wikipedia.org/wiki/Forum\_mondial\_du\_libre)musant de
@@ -180,11 +176,8 @@ partager (moi et mes pratiques peut-tre ?), les tudiants pour
 participer. Nous pouvons surement utiliser leurs sujets comme tude de
 cas pour travailler
 
-Jour 40 — Vendredi 31 octobre 2014
-----------------------------------
+## Jour 40 — Vendredi 31 octobre 2014
 
 Les élèves sont retourné à l’OpenWorldForum. Je prépare le tableau
 d’information pour leur retour, je réponds à des emails…
 
-Ceci est [l'histoire d'une de mes expriences en tant que formateur dans
-un bootcamp](https://yaf.github.io/journal-d-un-formateur-en-2015/).
