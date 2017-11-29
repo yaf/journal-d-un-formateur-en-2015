@@ -30,14 +30,20 @@ const afficheLaListeDesJournaux = () => {
   fetch('https://api.daktary.com/yaf/journal-d-un-formateur-en-2015/tree/master/journaux')
     .then(response => response.json())
     .then(journaux => {
-      journaux.body.forEach(journal => {
+      journaux.body
+      .sort(reordonnerLesJournaux)
+      .forEach(journal => {
         const entreeDeJournal = MiseEnFormeDe(journal);
         container.append(entreeDeJournal);
       });
     });
 };
 
+const obtenirLOrdinalDu = (journal) => journal.name.replace('semaine-', '0')
 
+const reordonnerLesJournaux = (journalA, journalB) => {
+  return obtenirLOrdinalDu(journalA) > obtenirLOrdinalDu(journalB)
+};
 
 const MiseEnFormeDe = (journal) => {
   const sectionJournal = document.createElement('section');
