@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.2/moment.js"></script>
 
   <title>Journal d'un formateur en bootcamp</title>
 
@@ -43,7 +42,7 @@ const MiseEnFormeDe = (journal) => {
   sectionJournal.innerHTML = journal.body;
 
   var dateJournal = document.createElement('em');
-  dateJournal.textContent = moment(journal.meta.date).format("DD MMMM YYYY");
+  dateJournal.textContent = new Date(journal.meta.date).toLocaleDateString('fr-FR', {year: 'numeric', month: 'long', day: 'numeric'});
   sectionJournal.prepend(dateJournal);
 
   var titreJournal = document.createElement('h1');
