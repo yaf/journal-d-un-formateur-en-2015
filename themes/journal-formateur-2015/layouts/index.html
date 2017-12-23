@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang=fr>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: black;
+    }
+
+    #journaux {
+      margin: 2rem;
+      width: 30rem;
+      text-align: justify;
+      line-height: 1.2rem;
+    }
+
+    #journaux blockquote {
+      border-left: 10px solid lightgrey;
+      font-size: 1.2rem;
+      font-weight: bolder;
+      font-style: italic;
+    }
+
+    #journaux  p {
+      margin: 1.2rem;
+      text-indent: 1.2rem;
+    }
+
+    #journaux h1 {
+      margin: 1.2rem 0 0 0;
+      padding: 2rem 0 1rem 0;
+      border-top: 1px solid black;
+    }
+
+    #journaux time {
+      display: block;
+      text-align: right;
+      font-style: italic;
+    }
+
+  </style>
+
+
+  <title>Journal d'un formateur en bootcamp</title>
+
+  <main id=journaux>
+  {{range .Data.Pages.ByTitle}}
+  <section>
+    <h1>{{ .Title }}</h1>
+
+    <time>{{.Date.Day}} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{.Date.Year}}</time>
+    {{ .Content }}
+
+  </section>
+  {{end}}
+  </main>
+</html>
