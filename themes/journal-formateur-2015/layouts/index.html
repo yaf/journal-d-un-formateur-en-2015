@@ -47,7 +47,7 @@
   <title>Journal d'un formateur en bootcamp</title>
 
   <main id=journaux>
-  {{range .Data.Pages.ByTitle}}
+  {{range sort .Data.Pages "FullFilePath"}}
   <section>
     <h1>{{ .Title }}</h1>
 
