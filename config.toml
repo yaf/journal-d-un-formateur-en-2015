@@ -3,4 +3,6 @@ languageCode = "fr-FR"
 title = "Journal d'un formateur en 2015"
 theme = "journal-formateur-2015"
 DefaultContentLanguage = "fr"
+disableSitemap = true
+disableKinds = ["page", "taxonomy"]
 
