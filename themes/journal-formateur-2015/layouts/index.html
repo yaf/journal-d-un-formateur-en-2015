@@ -63,12 +63,16 @@
 
 const linkAllRubyWord = () => {
   var allP = document.querySelectorAll("p");
-  console.log(allP)
   allP.forEach((p) => {
     var base = p.innerHTML;
     p.innerHTML = base.replace(/(r|R)uby/, "<a href='https://www.ruby-lang.org'>Ruby</a>");
   });
-  console.log(allP)
+
+  var allLi = document.querySelectorAll("li");
+  allLi.forEach((li) => {
+    var base = li.innerHTML;
+    li.innerHTML = base.replace(/(r|R)uby/, "<a href='https://www.ruby-lang.org'>Ruby</a>");
+  });
 }
 
 linkAllRubyWord()
